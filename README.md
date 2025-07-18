@@ -1,6 +1,6 @@
 # PDF Text Extractor & Search
 
-A simple Python CLI tool to extract text from PDF files and search for keywords inside.
+A Python CLI tool to extract text from PDF files and search for keywords inside.
 
 ## Features
 
